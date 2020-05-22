@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\CSharpWorkspace\\BeeksoftTFS\\EasyDump\\EasyDump\\EasyDump.csproj": {}
+    "F:\\CSharpWorkspace\\BeeksoftTFS\\EasyDump\\src\\EasyDump\\EasyDump.csproj": {}
   },
   "projects": {
-    "F:\\CSharpWorkspace\\BeeksoftTFS\\EasyDump\\EasyDump\\EasyDump.csproj": {
+    "F:\\CSharpWorkspace\\BeeksoftTFS\\EasyDump\\src\\EasyDump\\EasyDump.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\CSharpWorkspace\\BeeksoftTFS\\EasyDump\\EasyDump\\EasyDump.csproj",
+        "projectUniqueName": "F:\\CSharpWorkspace\\BeeksoftTFS\\EasyDump\\src\\EasyDump\\EasyDump.csproj",
         "projectName": "EasyDump",
-        "projectPath": "F:\\CSharpWorkspace\\BeeksoftTFS\\EasyDump\\EasyDump\\EasyDump.csproj",
+        "projectPath": "F:\\CSharpWorkspace\\BeeksoftTFS\\EasyDump\\src\\EasyDump\\EasyDump.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "F:\\CSharpWorkspace\\BeeksoftTFS\\EasyDump\\EasyDump\\obj\\",
+        "outputPath": "F:\\CSharpWorkspace\\BeeksoftTFS\\EasyDump\\src\\EasyDump\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\NuGetPackagesFallback\\",
